@@ -1,0 +1,12 @@
+{
+  "name": "root/bustep",
+  "authors": [
+    {
+      "name": "Andrey Stapenenko",
+      "email": "info@bustep.ru"
+    }
+  ],
+  "require" : {
+    "asan/phpexcel" : "v2.0.1"
+  }
+}
